@@ -1,0 +1,191 @@
+body 
+{
+	background-color:lightblue;
+}
+
+h1 
+{
+	color: white;
+	text-align:center;
+}
+
+p {
+	color: blue;
+	font-family:verdana;
+	font-size: 20px;
+}
+._1,._2,._3,._4,._5,._6
+{
+	text-align:right;
+	font-family:Times New Roman;
+}
+._1
+{
+	color: Tomato;
+	background-color:yellow;
+	font-size: 10px;
+}
+._2
+{
+	color:Blue;
+	background-color:lightgray;
+	font-size: 20px;
+}
+._3
+{
+	color: Tomato;
+	background-color:lightsalmon;
+	font-size: 30px;
+}
+._4
+{
+	color:Blue;
+	background-color:lime;
+	font-size: 35px;
+}
+._5
+{
+	color: Tomato;
+	background-color:green;
+	font-size: 40px;
+}
+._6
+{
+	color: Tomato;
+	background-color:green;
+	font-size: 40px;
+}
+._3_1:link,.a2:link
+{
+	background-color: white;
+	text-decoration: none;
+}
+._3_1:link 
+{
+	color:green;
+}
+._3_2:link 
+{
+	color :purple;	
+}
+._3_1:hover,._3_2:hover
+{
+	background-color:white;
+	text-decoration: underline;
+}
+._3_1:hover 
+{
+	color: rgb(25, 35, 75);
+}
+._3_1:hover 
+{
+	color: rgb(100, 50, 50);
+}
+._3_1:active,._3_2:active
+{
+	color: pink;
+}
+._3_3:link,._3_4:link
+{
+	border-radius: 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+._3_3:link 
+{
+	border: 3px solid rgb(0, 0, 0);
+	background-color: #f44335;
+	color: pink;
+	padding: 100px 50px;
+}
+._3_4:link 
+{
+	border: 5px solid rgb(0, 0, 0);
+	background-color: #f41335;
+	color: pink;
+	padding: 20px 50px;
+}
+
+._4_ 
+{
+	padding: 15px;
+	width: 150px;
+}
+
+._4_1
+{
+	color: red;
+}
+
+._4_2
+{
+	color: white;
+}
+
+._4_3 
+{
+	color: blue;
+}
+
+._4_4
+{
+	color:orange;
+}
+
+._4_5
+{
+	color: green;
+}
+
+._4_6
+{
+	color: brown;
+}
+
+._5_
+{
+	padding: 5px;
+	width: 150px;
+}
+._5_1
+{
+	border-radius:8px;
+	border: 1px solid rgb(92, 8, 8);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+._5_2
+{
+	border-radius:20%;
+	border: 2px solid rgb(186, 189, 24);
+	box-shadow: 0 4px 8px 0 rgba(95, 47, 47, 0.2), 0 6px 20px 0 rgba(175, 14, 14, 0.19);
+}
+._6_
+{
+	font-size: 20px;
+}
+._6_1
+{
+	color:green;
+	width:17%
+}
+._6_2
+{
+	color:brown;
+	width:16%
+}
+._6_3
+{
+	color:rgb(145, 135, 135);
+	width:16%
+}
+._6_4
+{
+	color:yellowgreen;
+	width:16%
+}
+._6_5
+{
+	color:rgb(177, 69, 83);
+	width:16%
+}
